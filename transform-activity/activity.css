@@ -1,3 +1,5 @@
 main {
-
+    transform: skewY(350deg);
+   margin-left: 0;
+   
 }
